@@ -1,0 +1,19 @@
+body {
+	    color: #205BA6;
+}
+
+.navbar-default .navbar-brand, .btn-default, .btn {
+    color: #205BA6;
+}
+
+.jumbotron {
+	    background-color: #f0f0f0;
+}
+
+.btn-lg-fixedwidth {
+	width: 180px;
+}
+
+.smallspace {
+	height: 20px;
+}

@@ -1,0 +1,13 @@
+server:
+  port: 9020
+
+management:
+  server:
+    port: 9021
+  security:
+    enabled: false  
+  endpoints:
+    enabled-by-default: true
+    web:
+      exposure:
+        include: '*'
